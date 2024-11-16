@@ -1,6 +1,6 @@
 # Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started. Changes on Dev Branch
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started. - First Feature
 
 ## How Do You Plan to Deploy Your Changes?
 
